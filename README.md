@@ -1,4 +1,4 @@
-# 🛡 NoVirus — Multi-Engine Malware Scanner
+# 🛡 NoVirus - Multi-Engine Malware Scanner
 
 A lightweight malware detection tool that monitors local downloads and checks file hashes against **VirusTotal’s multi-engine threat intelligence platform (70+ antivirus engines, 10+ sandboxes).**
 
